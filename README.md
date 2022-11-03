@@ -1,5 +1,4 @@
-#  Learning Git Update
-======================
+# Learning Git Update ======================
 
 important steps for Git workflow:
 
