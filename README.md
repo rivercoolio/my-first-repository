@@ -10,3 +10,4 @@ important steps for Git workflow:
 6. view previous changes with git log
 
 7. modifying this file as a trial for Pull function
+8. One more change.
