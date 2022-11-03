@@ -8,3 +8,5 @@ important steps for Git workflow:
 4. stage changes for commit
 5. commit changes to version history
 6. view previous changes with git log
+
+7. modifying this file as a trial for Pull function
